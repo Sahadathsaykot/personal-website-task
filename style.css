@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 40px;
+}
+h2{
+    font-size: 30px;
+}
+.pink_highlight{
+    color: rgb(247, 47, 157);
+}
+.half_part{
+    width: 40%;
+    float: left;
+}
+.text_part{
+    margin-top : 10%;
+    margin-left: 5%;
+    padding: 2%;
+}
+.text_part h1{
+    margin-top: 12px;
+    margin-bottom: 30px;
+}
+.half_part img{
+    width: 70%;
+    margin-top: 12%;
+    margin-left: 20%;
+}
+.fancy_button{
+    text-decoration: none;
+    background-color: rgb(247, 47, 157);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 500;
+    border-radius: 7px;
+}
+.text_part p{
+    margin: 30px 0px;
+    font-weight: 300;
+    color: rgb(105, 105, 105);
+}
+.top_section{
+    background-image: url("images/header-bg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+section{
+    height: 800px;
+}
+.biography{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.image_part{
+    width: 90%;
+    margin: 0 auto;
+}
+.image_part img{
+    width: 32%;
+    display: inline;
+    padding: 5px;    
+}
+.latest_work h2{
+    text-align: center;
+    margin: 5%;
+}
+.latest_work{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+}
+.client_say{
+    text-align: center;
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    height: 500px;
+}
+.big_button{
+    background-color: rgb(247, 47, 157);
+    color: white;
+    border: none;
+    padding: 40px 200px;
+    margin-top: 50px;
+    border-radius: 5px;
+}
+.client_say h2{
+    margin-bottom: 50px;
+}
+.client_say p{
+    margin-bottom:30px ;
+}
+.mail{
+    font-size: 25px;
+    font-weight: 700;
+}
+footer{
+    text-align: center;
+    margin: 30px;
+}
